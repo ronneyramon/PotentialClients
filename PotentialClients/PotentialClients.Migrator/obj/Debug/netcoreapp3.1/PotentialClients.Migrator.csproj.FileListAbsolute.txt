@@ -1,0 +1,4 @@
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Migrator\bin\Debug\netcoreapp3.1\PotentialClients.Migrator.exe
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Migrator\obj\Debug\netcoreapp3.1\PotentialClients.Migrator.csprojAssemblyReference.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Migrator\obj\Debug\netcoreapp3.1\PotentialClients.Migrator.AssemblyInfoInputs.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Migrator\obj\Debug\netcoreapp3.1\PotentialClients.Migrator.AssemblyInfo.cs

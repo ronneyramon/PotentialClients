@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sQWwfEuvD64IynrLEUIGrVagjNwsTOpxB6mdpdkyNwopiNqeuS1uzQE+AUowp8iC1Lv178oyd3HvynCQUtlOYg==",
+  "dgSpecHash": "OCdxxH/FqFOwH9n2bxCsKrsxg2b6TRkZQtkPba5NpouWZpGXiw/oa+vFbQ10FW8OVS/xnmKGXAIOMH3OLVpD1g==",
   "success": true,
   "projectFilePath": "C:\\Workspaces\\BairesDev\\PotentialClients\\PotentialClients\\PotentialClients.Domain\\PotentialClients.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ronne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
   "logs": []
 }

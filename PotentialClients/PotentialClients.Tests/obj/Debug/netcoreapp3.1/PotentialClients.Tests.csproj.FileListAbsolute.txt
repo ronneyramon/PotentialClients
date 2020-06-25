@@ -87,10 +87,15 @@ C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\obj\Debug\netcoreapp3.1\PotentialClients.Tests.csprojAssemblyReference.cache
-C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\obj\Debug\netcoreapp3.1\PotentialClients.Tests.csproj.CoreCompileInputs.cache
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\obj\Debug\netcoreapp3.1\PotentialClients.Tests.AssemblyInfoInputs.cache
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\obj\Debug\netcoreapp3.1\PotentialClients.Tests.AssemblyInfo.cs
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\obj\Debug\netcoreapp3.1\PotentialClients.Tests.csproj.CopyComplete
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\obj\Debug\netcoreapp3.1\PotentialClients.Tests.dll
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\obj\Debug\netcoreapp3.1\PotentialClients.Tests.pdb
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\obj\Debug\netcoreapp3.1\PotentialClients.Tests.genruntimeconfig.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\bin\Debug\netcoreapp3.1\PotentialClients.Domain.dll
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\bin\Debug\netcoreapp3.1\PotentialClients.Domain.pdb
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\obj\Debug\netcoreapp3.1\PotentialClients.Tests.csproj.CoreCompileInputs.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll

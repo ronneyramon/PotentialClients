@@ -1,0 +1,8 @@
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Common\bin\Debug\netcoreapp3.1\PotentialClients.Common.deps.json
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Common\bin\Debug\netcoreapp3.1\PotentialClients.Common.dll
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Common\bin\Debug\netcoreapp3.1\PotentialClients.Common.pdb
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Common\obj\Debug\netcoreapp3.1\PotentialClients.Common.csproj.CoreCompileInputs.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Common\obj\Debug\netcoreapp3.1\PotentialClients.Common.AssemblyInfoInputs.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Common\obj\Debug\netcoreapp3.1\PotentialClients.Common.AssemblyInfo.cs
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Common\obj\Debug\netcoreapp3.1\PotentialClients.Common.dll
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Common\obj\Debug\netcoreapp3.1\PotentialClients.Common.pdb

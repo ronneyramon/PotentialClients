@@ -1,0 +1,17 @@
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\bin\Debug\netcoreapp3.1\PotentialClients.EFCore.deps.json
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\bin\Debug\netcoreapp3.1\PotentialClients.EFCore.dll
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\obj\Debug\netcoreapp3.1\PotentialClients.EFCore.csprojAssemblyReference.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\obj\Debug\netcoreapp3.1\PotentialClients.EFCore.AssemblyInfoInputs.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\obj\Debug\netcoreapp3.1\PotentialClients.EFCore.AssemblyInfo.cs
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\bin\Debug\netcoreapp3.1\PotentialClients.Domain.dll
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\bin\Debug\netcoreapp3.1\PotentialClients.Domain.pdb
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\obj\Debug\netcoreapp3.1\PotentialClients.EFCore.csproj.CopyComplete
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\bin\Debug\netcoreapp3.1\PotentialClients.EFCore.pdb
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\obj\Debug\netcoreapp3.1\PotentialClients.EFCore.dll
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\obj\Debug\netcoreapp3.1\PotentialClients.EFCore.pdb
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\bin\Debug\netcoreapp3.1\PotentialClients.EFCore.runtimeconfig.json
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\bin\Debug\netcoreapp3.1\PotentialClients.EFCore.runtimeconfig.dev.json
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\obj\Debug\netcoreapp3.1\PotentialClients.EFCore.csproj.CoreCompileInputs.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\obj\Debug\netcoreapp3.1\PotentialClients.EFCore.genruntimeconfig.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\bin\Debug\netcoreapp3.1\PotentialClients.Common.dll
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.EFCore\bin\Debug\netcoreapp3.1\PotentialClients.Common.pdb

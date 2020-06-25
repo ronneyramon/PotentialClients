@@ -1,8 +1,9 @@
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\bin\Debug\netcoreapp3.1\PotentialClients.Domain.deps.json
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\bin\Debug\netcoreapp3.1\PotentialClients.Domain.dll
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\bin\Debug\netcoreapp3.1\PotentialClients.Domain.pdb
-C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\obj\Debug\netcoreapp3.1\PotentialClients.Domain.csproj.CoreCompileInputs.cache
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\obj\Debug\netcoreapp3.1\PotentialClients.Domain.AssemblyInfoInputs.cache
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\obj\Debug\netcoreapp3.1\PotentialClients.Domain.AssemblyInfo.cs
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\obj\Debug\netcoreapp3.1\PotentialClients.Domain.dll
 C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\obj\Debug\netcoreapp3.1\PotentialClients.Domain.pdb
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\obj\Debug\netcoreapp3.1\PotentialClients.Domain.csprojAssemblyReference.cache
+C:\Workspaces\BairesDev\PotentialClients\PotentialClients\PotentialClients.Domain\obj\Debug\netcoreapp3.1\PotentialClients.Domain.csproj.CoreCompileInputs.cache
