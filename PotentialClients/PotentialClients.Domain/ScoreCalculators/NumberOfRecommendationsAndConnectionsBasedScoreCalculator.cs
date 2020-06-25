@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace PotentialClients.Domain.ScoreCalculators
 {
     /// <summary>
-    /// Calculates the score of a potential client base on the NumberOfRecommendations and NumberOfConnections.
+    /// Calculates the score of a potential client based on the NumberOfRecommendations and NumberOfConnections.
     /// The result is the sum of these two properties normalized in a range of 0 to 100, being:
     /// 500 considered the "best scenario" for NumberOfConnections, corresponding for 50% of the score
     /// 10 considered the "best scenario" for NumberOfRecommendations, corresponding for 50% of the score
