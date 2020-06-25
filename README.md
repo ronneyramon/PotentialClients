@@ -10,7 +10,7 @@ list
 ## Installation
 
 - Clone this repository
-- Open the solution inside "PotentialClients" folder with Visual Studio and run the project PotentialClients.API. Thil will create and seed the database automacally, and open a browser with the swagger UI for the API
+- Open the solution inside "PotentialClients" folder with Visual Studio and run the project PotentialClients.API. This will create and seed the database automacally, and open a browser with the swagger UI for the API
 
 ## Concepts and Technologies used
 
