@@ -26,8 +26,8 @@ list
 
 ## Future Improvements
 
-[ ] The score system implemented is a very simple one, based only on the properties NumberOfRecommendations and NumberOfConnections. The architecture allows the replacement of the IScoreCalculator implementation to improve the score system. One good solution would be implementing the score based on scores for the other properties (like CurrentRole, Country and Industry). An even better implementation would use concepts of Machine Learning.
-[ ] Improve the DI implementation using a more consolidated IoC container (like Autofac) that allows registration by convention, modularization and assembly scanning.
-[ ] Improve parallelism of the potential clients import process
-[ ] Enable EF Migrations and remove the startup database initialization (for demo porpouse only)
-[ ] More Unit Tests and implement integration and end-to-end tests
+- [ ] The score system implemented is a very simple one, based only on the properties NumberOfRecommendations and NumberOfConnections. The architecture allows the replacement of the IScoreCalculator implementation to improve the score system. One good solution would be implementing the score based on scores for the other properties (like CurrentRole, Country and Industry). An even better implementation would use concepts of Machine Learning.
+- [ ] Improve the DI implementation using a more consolidated IoC container (like Autofac) that allows registration by convention, modularization and assembly scanning.
+- [ ] Improve parallelism of the potential clients import process
+- [ ] Enable EF Migrations and remove the startup database initialization (for demo porpouse only)
+- [ ] More Unit Tests and implement integration and end-to-end tests
